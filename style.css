@@ -1,0 +1,22 @@
+h1{
+    text-transform: uppercase;
+}
+
+#nd {
+    /* padding-top: 50%;
+    padding-bottom: 50%;    */
+    /* verticle-align: middle; */
+}
+ol{
+    /* text-align: center; */
+    font-size: 20px;
+    font-weight: bolder;
+}
+.duythanvan{
+    font-size: 20px;
+}
+.date{
+    font-size: 16px;
+    text-align: right;
+    font-style: italic;
+}
